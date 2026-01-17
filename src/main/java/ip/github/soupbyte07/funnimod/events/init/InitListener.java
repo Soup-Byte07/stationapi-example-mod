@@ -1,4 +1,4 @@
-package net.glasslauncher.example.events.init;
+package ip.github.soupbyte07.funnimod.events.init;
 
 import net.mine_diver.unsafeevents.listener.EventListener;
 import net.modificationstation.stationapi.api.event.mod.InitEvent;
@@ -23,5 +23,4 @@ public class InitListener {
     @EventListener
     private static void serverInit(InitEvent event) {
         LOGGER.info(NAMESPACE.toString());
-    }
-}
+    }}

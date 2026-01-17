@@ -1,0 +1,3 @@
+# @ is a shorthand for the current mod id, which is funnimod. E.g: tile.@.redclay.name
+item.@.funni_item.name="the funni item"
+tile.@.landmine_block.name="Landmine"

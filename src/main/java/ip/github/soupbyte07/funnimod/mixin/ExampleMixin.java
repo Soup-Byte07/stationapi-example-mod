@@ -1,4 +1,4 @@
-package net.glasslauncher.example.mixin;
+package ip.github.soupbyte07.funnimod.mixin;
 
 import net.minecraft.client.MinecraftApplet;
 import org.spongepowered.asm.mixin.Mixin;

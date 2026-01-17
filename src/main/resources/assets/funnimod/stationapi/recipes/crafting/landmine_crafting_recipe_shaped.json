@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ouo",
+    "owo",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "minecraft:cobblestone"
+    },
+    "w": {
+      "item": "minecraft:tnt"
+    },
+    "u": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "funnimod:landmine_block",
+    "count": 8
+  }
+}
